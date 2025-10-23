@@ -46,8 +46,4 @@ public class Unique_substring_finder {
     }
 }
 
-public static void main(){
-    println(Unique_substring_finder.unique_substring_finder_func("abcddqwertyuiioo"));
-}
-
 
